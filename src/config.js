@@ -1,18 +1,17 @@
 module.exports = {
-  siteTitle: 'Rafi Rasheed | Hardware Engineer',
-  siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+  siteTitle: 'Rafi Rasheed | Hardware Maker',
+  siteDescription: 'Rafi Rasheed T C is a Hardware Maker based in Kerala, India',
   siteKeywords:
     'Rafi Rasheed, Rafi, rafi, rafitc99, arduino developer, python developer, community, cucek, cusat',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://rafirasheed.co',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-172376355-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Rafi Rasheed',
   location: 'Kerala, IN',
   email: 'mail@rafirasheed.co',
   github: 'https://github.com/rafitc',
-  twitterHandle: '@rafitc99',
+  twitterHandle: '@rafirasheed_',
   socialMedia: [
     {
       name: 'GitHub',
@@ -24,15 +23,15 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://makergram.com/community/user/rafitc99',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/rafitc99',
+      url: 'https://www.instagram.com/rafirasheed_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/rafitc99',
+      url: 'https://twitter.com/rafirasheed_',
     },
   ],
 
