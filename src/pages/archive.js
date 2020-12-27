@@ -20,16 +20,13 @@ const StyledTableContainer = styled.div`
 const StyledTable = styled.table`
   width: 100%;
   border-collapse: collapse;
-
   .hide-on-mobile {
     ${media.tablet`
       display: none;
     `};
   }
-
   tbody tr {
     transition: ${theme.transition};
-
     &:hover,
     &:focus {
       background-color: ${colors.lightNavy};
