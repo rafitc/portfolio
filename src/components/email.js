@@ -11,11 +11,10 @@ const StyledLinkWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   position: relative;
-
   &:after {
     content: '';
     display: block;
-    width: 2px;
+    width: 1px;
     height: 90px;
     margin: 0 auto;
     background-color: ${colors.lightSlate};
@@ -24,7 +23,7 @@ const StyledLinkWrapper = styled.div`
 const StyledEmailLink = styled.a`
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.xs};
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
   writing-mode: vertical-rl;
   margin: 20px auto;
   padding: 10px;
