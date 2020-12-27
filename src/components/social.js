@@ -18,7 +18,7 @@ const StyledList = styled.ul`
   &:after {
     content: '';
     display: block;
-    width: 2px;
+    width: 1px;
     height: 90px;
     margin: 0 auto;
     background-color: ${colors.lightSlate};
@@ -35,8 +35,8 @@ const StyledLink = styled.a`
     transform: translateY(-3px);
   }
   svg {
-    width: 28px;
-    height: 28px;
+    width: 18px;
+    height: 18px;
   }
 `;
 
