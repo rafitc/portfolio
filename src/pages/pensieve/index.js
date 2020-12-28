@@ -123,19 +123,16 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/pensieve" />
+        <title>Blog | Rafi Rasheed</title>
+        <link rel="canonical" href="https://makergram.com/blog/" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
           <h1 className="big-title">Pensieve</h1>
           <p className="subtitle">
-            <a
-              href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"
-              target="_blank"
-              rel="noopener noreferrer">
-              a collection of memories
+            <a href="https://makergram.com/blog/" target="_blank" rel="noopener noreferrer">
+              a collection of maker stories
             </a>
           </p>
         </header>
