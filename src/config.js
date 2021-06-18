@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/rafirasheed_',
+      url: 'https://twitter.com/iamRafiRasheed',
     },
   ],
 
