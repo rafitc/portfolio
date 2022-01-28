@@ -8,6 +8,6 @@ url: 'https://www.makergram.com/'
 ---
 
 - User management and control
-- Building makerkits
-- Mentoring hackathon
-- Conducting workshops
+- Designed MakerKit to promote maker culture
+- Executed different plan and programs to build a hardware developer friendly ecosystem in Kerala
+- Actively participated in Hackathons as a hardware mentor
